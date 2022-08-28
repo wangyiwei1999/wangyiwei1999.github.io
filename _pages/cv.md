@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[click here for a pdf version](https://wangyiwei1999.github.io/files/CV.pdf)
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
