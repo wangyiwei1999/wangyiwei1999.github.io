@@ -27,11 +27,11 @@ EDUCATION
   
 PROFESSIONAL EXPERIENCE
 ======
-Huifeng Industrial (Shanghai) Co., Ltd. _Intern Derivatives Trader Assistant_, 09/2021 – 11/2021
+* Huifeng Industrial (Shanghai) Co., Ltd. _Intern Derivatives Trader Assistant_, 09/2021 – 11/2021
 
-  * Wrote functions for pricing barrier option with Python through Monte Carlo.
-  * Updated corporate options quote daily, measured volatility of option subject matter on RStudio with GARCH. 
-  * Calculated the profit and loss of each hedging on Excel.
+    * Wrote functions for pricing barrier option with Python through Monte Carlo.
+    * Updated corporate options quote daily, measured volatility of option subject matter on RStudio with GARCH. 
+    * Calculated the profit and loss of each hedging on Excel.
 
 Sinolink Securities, _Intern Fund Operation Manager_, 07/2021 – 08/2021
 
