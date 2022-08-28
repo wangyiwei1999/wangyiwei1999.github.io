@@ -14,9 +14,10 @@ redirect_from:
 Education
 ======
 * # Columbia University, 09/2022 – 02/2024
-  ## Master of Arts in Mathematics in Finance, 
+  ## Master of Arts in Mathematics in Finance 
   
-* Bachelor of Economics in Financial Engineering, GPA: 3.8/ 4.0
+* # Zhongnan University of Economics and Law, 07/2020 – 08/2020
+  ## Bachelor of Economics in Financial Engineering, GPA: 3.8/ 4.0
 
 Work experience
 ======
