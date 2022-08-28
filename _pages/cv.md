@@ -11,7 +11,7 @@ redirect_from:
 
 [click here for a pdf version](https://wangyiwei1999.github.io/files/CV.pdf)
 
-# Education
+# EDUCATION
 * ## Columbia University, 09/2022 – 02/2024
   ### _Master of Arts in Mathematics in Finance_ 
   
