@@ -13,14 +13,14 @@ redirect_from:
 
 Education
 ======
-* # Columbia University, 09/2022 – 02/2024
-  ## _Master of Arts in Mathematics in Finance_ 
+* ## Columbia University, 09/2022 – 02/2024
+  ### _Master of Arts in Mathematics in Finance_ 
   
 * # Zhongnan University of Economics and Law, 07/2020 – 08/2020
-  ## _Bachelor of Economics in Financial Engineering, GPA: 3.8/ 4.0_
+  ### _Bachelor of Economics in Financial Engineering, GPA: 3.8/ 4.0_
   
 * # University of California, Berkeley, 07/2020 – 08/2020
-  ## _Summer School Program——Data Mining and Analysis (Merit)_
+  ### _Summer School Program——Data Mining and Analysis (Merit)_
   
 Work experience
 ======
