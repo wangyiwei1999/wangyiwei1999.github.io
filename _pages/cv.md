@@ -14,7 +14,6 @@ redirect_from:
 EDUCATION
 =======
 * __Columbia University__, 09/2022 – 02/2024
-
   _Master of Arts in Mathematics in Finance_ 
   
 * __Zhongnan University of Economics and Law__, 07/2020 – 08/2020
