@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yiwei Wang"
 title_separator          : "-"
 name                     : &name "Yiwei Wang"
-description              : &description " "
+description              : &description " Personal description "
 url                      : https://wangyiwei1999.github.io # the base hostname & protocol for your site e.g. "https://wangyiwei1999.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wangyiwei1999/wangyiwei1999.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : " "
   avatar           : "profile.jpg"
-  bio              : " "
+  bio              : #" "
   location         : "New York, NY, US"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : yw3981@columbia.edu
+  email            : "yw3981@columbia.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
