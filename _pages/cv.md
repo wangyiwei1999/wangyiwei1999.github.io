@@ -22,15 +22,20 @@ redirect_from:
   ### _Summer School Program——Data Mining and Analysis (Merit)_
   
 # PROFESSIONAL EXPERIENCE
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* ## Huifeng Industrial (Shanghai) Co., Ltd. _Intern Derivatives Trader Assistant_, 09/2021 – 11/2021
+  * Wrote functions for pricing barrier option with Python through Monte Carlo.
+  * Updated corporate options quote daily, measured volatility of option subject matter on RStudio with GARCH. 
+  * Calculated the profit and loss of each hedging on Excel.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* ## Sinolink Securities Intern Fund Operation Manager, 07/2021 – 08/2021
+  * Updated list of PE funds monitored for the day with Python, maintained regulatory database. 
+  * Cooperated with different departments in reviewing and issuing each transfer of PE funds. 
+  * Verified the validity of business and association information of fund companies.
+
+* ## TF Securities Intern Account Manager, 07/2019 – 09/2019
+  * Re-constructed financial factors in research reports with Python through PyCharm.
+  * Visualized data with Python, analyzed market trend and stock trend, recommended financial products to clients.
+
   
 Skills
 ======
